@@ -1,0 +1,1 @@
+print("ostad hamidreza reza!")
